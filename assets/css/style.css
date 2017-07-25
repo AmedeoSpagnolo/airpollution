@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.absolut {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
+.illustrations{
+  padding-top: 3rem;
+}
