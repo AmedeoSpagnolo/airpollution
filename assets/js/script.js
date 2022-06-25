@@ -4,7 +4,7 @@ $(document).ready(function(){
   draw_viz("data/dataset.json")
 
   // draw monsters
-  draw_monsters({random: false})
+  draw_monsters({random: true})
 
 })
 
